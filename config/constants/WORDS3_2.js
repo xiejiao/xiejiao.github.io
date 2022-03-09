@@ -29,7 +29,7 @@ var WORDS3_2 = [
     {
         id         : 3,
         word       : "shy",
-        chinese    : "羞怯的，胆性的，腼腆的",
+        chinese    : "羞怯的，胆怯的，腼腆的",
         module     : 1,
         difficulty : 5,
         start      : "",
