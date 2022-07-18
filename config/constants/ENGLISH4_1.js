@@ -82,7 +82,7 @@ var ENGLISH4_1 = {
     },
     B_4_1:{
         text_id    : "4_1",
-        title      : "Chinese peopleinvented paper.",
+        title      : "Chinese people invented paper.",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -91,7 +91,7 @@ var ENGLISH4_1 = {
     },
     B_4_2:{
         text_id    : "4_2",
-        title      : "He inventedthis bicycle.",
+        title      : "He invented this bicycle.",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -136,7 +136,7 @@ var ENGLISH4_1 = {
     },
     B_6_1:{
         text_id    : "6_1",
-        title      : "I didn't become gold.",
+        title      : "It didn't become gold.",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -163,7 +163,7 @@ var ENGLISH4_1 = {
     },
     B_7_1:{
         text_id    : "7_1",
-        title      : "Listen, point and say. ",
+        title      : "Did you take Amy’s doll? ",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -190,7 +190,7 @@ var ENGLISH4_1 = {
     },
     B_8_1:{
         text_id    : "8_1",
-        title      : "When did theycome?",
+        title      : "When did they come?",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -217,7 +217,7 @@ var ENGLISH4_1 = {
     },
     B_9_1:{
         text_id    : "9_1",
-        title      : "What happenedto your head?",
+        title      : "What happened to your head?",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -226,7 +226,7 @@ var ENGLISH4_1 = {
     },
     B_9_2:{
         text_id    : "9_2",
-        title      : "I bumped myhead.",
+        title      : "I bumped my head.",
         word_start : "",
         word_end   : "",
         type       : 1,
