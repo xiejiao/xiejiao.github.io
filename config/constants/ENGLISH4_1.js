@@ -136,7 +136,7 @@ var ENGLISH4_1 = {
     },
     B_6_1:{
         text_id    : "6_1",
-        title      : "I didn't become gold.",
+        title      : "It didn't become gold. ",
         word_start : "",
         word_end   : "",
         type       : 1,
