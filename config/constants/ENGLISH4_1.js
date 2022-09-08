@@ -55,7 +55,7 @@ var ENGLISH4_1 = {
     },
     B_3_1:{
         text_id    : "3_1",
-        title      : "She didn’t walkto school yesterday.",
+        title      : "She didn’t walk to school yesterday.",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -136,7 +136,7 @@ var ENGLISH4_1 = {
     },
     B_6_1:{
         text_id    : "6_1",
-        title      : "It didn't become gold.",
+        title      : "It didn't become gold. ",
         word_start : "",
         word_end   : "",
         type       : 1,
@@ -226,7 +226,7 @@ var ENGLISH4_1 = {
     },
     B_9_2:{
         text_id    : "9_2",
-        title      : "I bumped my head.",
+        title      : "I bumped myhead.",
         word_start : "",
         word_end   : "",
         type       : 1,
