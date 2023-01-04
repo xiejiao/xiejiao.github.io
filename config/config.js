@@ -13,6 +13,7 @@ window.EnglishInfo={
     'ENGLISH3_1': ENGLISH3_1,
     'ENGLISH3_2': ENGLISH3_2,
     'ENGLISH4_1': ENGLISH4_1,
+    'ENGLISH4_2': ENGLISH4_2,
 }
 window.EnglishWordInfo={
     'WORDS2_1': WORDS2_1,
@@ -20,4 +21,5 @@ window.EnglishWordInfo={
     'WORDS3_1': WORDS3_1,
     'WORDS3_2': WORDS3_2,
     'WORDS4_1': WORDS4_1,
+    'WORDS4_2': WORDS4_2,
 }
