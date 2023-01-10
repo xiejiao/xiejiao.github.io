@@ -75,10 +75,10 @@ var ENGLISH4_2 = {
         text_id    : "3_0",
         title      : "Module 3 Words",
         word_start : 15,
-        word_end   : 32,
+        word_end   : 33,
         type       : 0,
         mp3        : "Module03_Words.mp3",
-        fragment   : ""
+        fragment   : "4.477,8.541,12.385,18.782,25.052,30.090,35.229,39.654,43.304,47.448,51.537,55.097,61.575,65.195,72.058,76.259,80.168,84.445,88.729,93.034"
     },
     B_4_1:{
         text_id    : "4_1",
@@ -101,11 +101,11 @@ var ENGLISH4_2 = {
     B_4_0:{
         text_id    : "4_0",
         title      : "Module 4 Words",
-        word_start : 33,
-        word_end   : 38,
+        word_start : 34,
+        word_end   : 39,
         type       : 0,
         mp3        : "Module04_Words.mp3",
-        fragment   : ""
+        fragment   : "4.344,8.397,12.807,16.938,21.345,25.532,29.975"
     },
     B_5_1:{
         text_id    : "5_1",
@@ -128,11 +128,11 @@ var ENGLISH4_2 = {
     B_5_0:{
         text_id    : "5_0",
         title      : "Module 5 Words",
-        word_start : 39,
-        word_end   : 43,
+        word_start : 40,
+        word_end   : 44,
         type       : 0,
         mp3        : "Module05_Words.mp3",
-        fragment   : ""
+        fragment   : "4.447,9.122,12.861,16.920,21.923,26.124"
     },
     B_6_1:{
         text_id    : "6_1",
@@ -155,11 +155,11 @@ var ENGLISH4_2 = {
     B_6_0:{
         text_id    : "6_0",
         title      : "Module 6 Words",
-        word_start : 44,
-        word_end   : 52,
+        word_start : 45,
+        word_end   : 53,
         type       : 0,
         mp3        : "Module06_Words.mp3",
-        fragment   : ""
+        fragment   : "4.540,8.519,13.011,17.417,22.411,25.900,30.113,34.060,38.028,42.232"
     },
     B_7_1:{
         text_id    : "7_1",
@@ -182,11 +182,11 @@ var ENGLISH4_2 = {
     B_7_0:{
         text_id    : "7_0",
         title      : "Module 7 Words",
-        word_start : 53,
-        word_end   : 57,
+        word_start : 54,
+        word_end   : 58,
         type       : 0,
         mp3        : "Module07_Words.mp3",
-        fragment   : ""
+        fragment   : "4.455,8.613,12.854,16.979,20.787,24.594"
     },
     B_8_1:{
         text_id    : "8_1",
@@ -209,11 +209,11 @@ var ENGLISH4_2 = {
     B_8_0:{
         text_id    : "8_0",
         title      : "Module 8 Words",
-        word_start : 58,
-        word_end   : 67,
+        word_start : 59,
+        word_end   : 68,
         type       : 0,
         mp3        : "Module08_Words.mp3",
-        fragment   : ""
+        fragment   : "4.550,8.302,12.282,16.387,20.619,25.875,29.546,34.140,37.913,42.163,45.940"
     },
     B_9_1:{
         text_id    : "9_1",
@@ -236,11 +236,11 @@ var ENGLISH4_2 = {
     B_9_0:{
         text_id    : "9_0",
         title      : "Module 9 Words",
-        word_start : 68,
-        word_end   : 72,
+        word_start : 69,
+        word_end   : 73,
         type       : 0,
         mp3        : "Module09_Words.mp3",
-        fragment   : ""
+        fragment   : "4.251,8.637,13.479,18.108,22.337,26.411"
     },
     B_10_1:{
         text_id    : "10_1",
@@ -263,10 +263,10 @@ var ENGLISH4_2 = {
     B_10_0:{
         text_id    : "10_0",
         title      : "Module 10 Words",
-        word_start : 73,
-        word_end   : 76,
+        word_start : 74,
+        word_end   : 77,
         type       : 0,
         mp3        : "Module10_Words.mp3",
-        fragment   : ""
+        fragment   : "4.355,8.918,12.790,17.034,21.812"
     }
 }
