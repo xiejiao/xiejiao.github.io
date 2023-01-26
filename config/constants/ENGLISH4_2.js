@@ -199,7 +199,7 @@ var ENGLISH4_2 = {
     },
     B_8_2:{
         text_id    : "8_2",
-        title      : " It’s in the north of China.",
+        title      : "It’s in the north of China.",
         word_start : "",
         word_end   : "",
         type       : 1,
