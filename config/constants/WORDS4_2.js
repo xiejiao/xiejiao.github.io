@@ -452,7 +452,7 @@ var WORDS4_2 = [
     {
         id         : 50,
         word       : "meet",
-        chinese    : "与...见面 ",
+        chinese    : "与……见面 ",
         module     : 6,
         difficulty : 2,
         start      : "",
@@ -479,7 +479,7 @@ var WORDS4_2 = [
     {
         id         : 53,
         word       : "o’clock",
-        chinese    : "点钟",
+        chinese    : "……点钟",
         module     : 6,
         difficulty : 5,
         start      : "",
